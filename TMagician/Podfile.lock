@@ -1,0 +1,20 @@
+PODS:
+  - ColorThiefSwift (0.4.0)
+  - FlexColorPicker (1.3.1)
+
+DEPENDENCIES:
+  - ColorThiefSwift
+  - FlexColorPicker
+
+SPEC REPOS:
+  trunk:
+    - ColorThiefSwift
+    - FlexColorPicker
+
+SPEC CHECKSUMS:
+  ColorThiefSwift: 643bcd1364b4736ebcd190259646918ca17e8802
+  FlexColorPicker: e627af3d744786378ae65e53214528cc31105921
+
+PODFILE CHECKSUM: 6d15267343a491de312248e9bb8e5110bb1d144a
+
+COCOAPODS: 1.8.3
